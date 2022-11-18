@@ -28,6 +28,9 @@
 --------------------------------------------------------------------
 #### Mobile-desktop Js
 ```
-import * as mobileDesktop from "https://wikiour.github.io/styleplus/js/mobile-desktop.js";
-mobileDesktop.mobileDesktop();
+<script src="https://wikiour.github.io/styleplus/js/mobile-desktop.js"></script>
+```
+#### Mobile-Menu Js
+```
+<script src="https://wikiour.github.io/styleplus/js/mobile-menu.js"></script>
 ```
