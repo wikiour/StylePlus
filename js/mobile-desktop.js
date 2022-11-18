@@ -17,3 +17,5 @@ export function mobileDesktop() {
   }
   
 }
+
+mobileDesktop();
