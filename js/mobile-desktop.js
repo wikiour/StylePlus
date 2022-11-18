@@ -1,4 +1,4 @@
-export function mobileDesktop() {
+function mobileDesktop() {
   let isMobile = {
     Android: function () { return navigator.userAgent.match(/Android/i); },
     BlackBerry: function () { return navigator.userAgent.match(/BlackBerry/i); },
@@ -17,3 +17,5 @@ export function mobileDesktop() {
   }
   
 }
+
+mobileDesktop();
