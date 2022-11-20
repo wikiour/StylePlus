@@ -6,7 +6,7 @@ License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
 
-function mobileDesktop() {
+export function mobileDesktop() {
   let isMobile = {
     Android: function () { return navigator.userAgent.match(/Android/i); },
     BlackBerry: function () { return navigator.userAgent.match(/BlackBerry/i); },
@@ -25,5 +25,3 @@ function mobileDesktop() {
   }
   
 }
-
-mobileDesktop();
