@@ -1,3 +1,11 @@
+/*
+Author: WikiOur
+Author URI: https://wikiour.com.ua
+Description: This script defines the device and adds technical classes
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
 function mobileDesktop() {
   let isMobile = {
     Android: function () { return navigator.userAgent.match(/Android/i); },

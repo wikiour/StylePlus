@@ -1,3 +1,11 @@
+/*
+Author: WikiOur
+Author URI: https://wikiour.com.ua
+Description: Calculation functions for SCSS
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
 
 @function prc($pxOne, $pxTwo) {
   $result: calc($pxOne / $pxTwo) * 100%;
