@@ -38,8 +38,8 @@
 --------------------------------------------------------------------
 #### Swiper CSS
 ```
-@import url("https://wikiour.github.io/swiper/swiper.css");
-@import url("https://wikiour.github.io/swiper/swiper.min.css");
+@import url("https://wikiour.github.io/styleplus/swiper/swiper.css");
+@import url("https://wikiour.github.io/styleplus/swiper/swiper.min.css");
 
 @import url("https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css");
 ```
@@ -47,8 +47,8 @@
 #### Swiper JS
 
 ```
-import Swiper from 'https://wikiour.github.io/swiper/swiper.js';
-import Swiper from 'https://wikiour.github.io/swiper/swiper.min.js';
+import Swiper from 'https://wikiour.github.io/styleplus/swiper/swiper.js';
+import Swiper from 'https://wikiour.github.io/styleplus/swiper/swiper.min.js';
 
 import Swiper from 'https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.esm.browser.min.js';
 ```
