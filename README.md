@@ -47,6 +47,7 @@ https://unpkg.com/browse/swiper@8.4.5/
 #### Swiper CSS
 ```
 @import url("https://wikiour.github.io/styleplus/swiper/swiper.css");
+@import url("https://wikiour.github.io/styleplus/swiper/swiper.scss");
 @import url("https://wikiour.github.io/styleplus/swiper/swiper.min.css");
 
 @import url("https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css");
