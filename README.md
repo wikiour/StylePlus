@@ -34,6 +34,14 @@
 ```
 <script src="https://wikiour.github.io/styleplus/js/mobile-menu.js"></script>
 ```
+#### Popup Js
+```
+<script src="https://wikiour.github.io/styleplus/js/popup.js"></script>
+```
+#### Перенос блоков Js
+```
+<script src="https://wikiour.github.io/styleplus/js/go-block.js"></script>
+```
 --------------------------------------------------------------------
 
 
